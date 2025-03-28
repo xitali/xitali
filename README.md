@@ -29,7 +29,7 @@ Obecnie poszukuję swojej pierwszej pracy jako **Junior Backend Developer (Pytho
 
 ## 📫 Kontakt
 - **GitHub**: [@xitali](https://github.com/xitali)
-- **X (dawniej Twitter)**: [@xitali_](https://x.com/xitali_)
+- **X**: [@xitali_](https://x.com/xitali_)
 - **LinkedIn**: [@Emanuel Włoch](https://www.linkedin.com/in/emanuelwloch)
 - **E-mail**: emanuel.wloch@gmail.com
 
