@@ -38,3 +38,34 @@ Jestem wielkim fanem **BMW E92** i uwielbiam łączyć technologię z codziennym
 
 ---
 Zapraszam do współpracy i wspólnego tworzenia niesamowitych projektów! 🚀
+
+
+# Hi! I'm Emanuel Włoch (aka @xitali) 👋
+
+## 🚀 About Me
+I am a technology enthusiast with a passion for creating modern websites and applications. I specialize in **HTML**, **CSS**, **JavaScript**, and **Python**. My portfolio showcases projects such as responsive websites and backend applications. You can find more details on my website: [xitali.github.io/moje-portfolio](https://xitali.github.io/moje-portfolio).
+
+## 🔥 Current Projects
+- 🛠 **AI-driven automation** – I am working on an AI-powered tool for handling responses on WhatsApp and emails.
+- 🎮 **Universal Gaming Platform** – I am developing an application that integrates platforms like Steam, Epic Games, Battle.net, etc., allowing quick game launches without opening each platform separately.
+
+## 💡 Interests
+- 🖥 **Backend Development (Python - Flask, Django)**
+- 🎨 **Minimalist UI/UX Design**
+- 🚗 **Automotive Enthusiast**
+- 🎮 **Gaming**
+
+## 🎯 Looking for a Job!
+I am currently seeking my first job as a **Junior Backend Developer (Python)**. I am eager to take on challenges related to **Flask, Django**, API integrations, and process automation. I am open to any job opportunity in the **IT field** because it fascinates me, and I want to grow in this industry. If you are looking for a motivated and eager-to-learn developer – let me know! 💼
+
+## 📫 Contact
+- **GitHub**: [@xitali](https://github.com/xitali)
+- **X**: [@xitali_](https://x.com/xitali_)
+- **LinkedIn**: [@Emanuel Włoch](https://www.linkedin.com/in/emanuelwloch)
+- **E-mail**: emanuel.wloch@gmail.com
+
+## ⚡ Fun Fact
+I am a huge fan of **BMW E92** and love integrating technology into daily life! Besides that, I enjoy experimenting with backend development, optimizing code, and automating repetitive processes. I often get caught up in new technologies and enjoy testing different backend frameworks just for fun!
+
+---
+Looking forward to collaborating and building amazing projects together! 🚀
