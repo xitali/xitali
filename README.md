@@ -1,31 +1,59 @@
-<!---
-xitali/xitali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👋 Hi, I’m @xitali
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
-# Cześć! Jestem Emanuel Włoch (aka @xitali) 👋
+# Emanuel Włoch (aka @xitali) 👋
+
+![Vercel Deploy](https://vercel.com/button)
+![GitHub stars](https://img.shields.io/github/stars/xitali/emanuelw?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=xitali&color=blue)
+
+---
 
 ## 🚀 O mnie
-Jestem entuzjastą technologii z zamiłowaniem do tworzenia nowoczesnych stron internetowych i aplikacji. Specjalizuję się w **HTML**, **CSS**, **JavaScript** oraz **Pythonie**. Moje portfolio prezentuje projekty, takie jak responsywne strony internetowe i aplikacje backendowe. Więcej informacji znajdziesz na mojej stronie: [xitali.github.io/moje-portfolio](https://xitali.github.io/moje-portfolio).
+Jestem pasjonatem nowoczesnych technologii webowych. Tworzę szybkie, responsywne i piękne aplikacje oraz strony internetowe, wykorzystując najnowsze narzędzia i trendy.  
+Specjalizuję się w:
+- **Next.js** & **React** (SSR, SPA, API)
+- **TypeScript** (typowanie, bezpieczeństwo)
+- **Tailwind CSS** (nowoczesny design)
+- **Prisma ORM** + **MySQL**
+- **Automatyzacje AI** (OpenAI, integracje API)
+- **Vercel** (profesjonalny hosting i analityka)
 
-## 🔥 Aktualne projekty
-- 🛠 **AI-driven automation** – Pracuję nad narzędziem opartym na sztucznej inteligencji do obsługi odpowiedzi na WhatsApp i e-maile.
-- 🎮 **Uniwersalna platforma gamingowa** – Tworzę aplikację integrującą platformy takie jak Steam, Epic Games, Battle.net itp., umożliwiającą szybkie uruchamianie gier bez konieczności otwierania każdej z osobna.
+Moje portfolio: [emanuelw.pl](https://emanuelw.pl)  
+Zobacz projekty: [xitali.github.io/moje-portfolio](https://xitali.github.io/moje-portfolio)
+
+---
+
+## 🛠 Aktualne technologie
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38bdf8?logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2d3748?logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+
+---
+
+## 🔥 Projekty
+- 🤖 **AI-driven automation** – narzędzia do automatyzacji odpowiedzi (WhatsApp, e-mail, OpenAI)
+- 🎮 **Uniwersalna platforma gamingowa** – integracja Steam, Epic Games, Battle.net i innych
+- 💼 **Nowoczesne portfolio** – SSR, dynamiczne API, analityka Vercel
+
+---
 
 ## 💡 Zainteresowania
-- 🖥 **Backend Development (Python - Flask, Django)**
-- 🎨 **Minimalistyczny design UI/UX**
-- 🚗 **Motoryzacja**
-- 🎮 **Gry komputerowe**
+- Backend (Node.js, Python, Flask)
+- Minimalistyczny design UI/UX
+- Automatyzacja, integracje API
+- Motoryzacja, gry komputerowe
+
+---
 
 ## 🎯 Szukam pracy!
-Obecnie poszukuję swojej pierwszej pracy jako **Junior Backend Developer (Python)**. Chętnie podejmę się wyzwań w zakresie **Flaska, Django**, integracji API oraz automatyzacji procesów. Jestem otwarty na każdą propozycję pracy w **IT**, ponieważ to dziedzina, która mnie fascynuje i w której chcę się rozwijać. Jeśli szukasz zmotywowanego i chętnego do nauki programisty – daj mi znać! 💼
+Jestem otwarty na propozycje jako **Fullstack / Backend Developer (Next.js, TypeScript, Python)**.  
+Szukam zespołu, gdzie liczy się jakość, rozwój i nowoczesne technologie.  
+Jeśli szukasz ambitnego programisty – napisz do mnie! 💼
+
+---
 
 ## 📫 Kontakt
 - **GitHub**: [@xitali](https://github.com/xitali)
@@ -33,30 +61,79 @@ Obecnie poszukuję swojej pierwszej pracy jako **Junior Backend Developer (Pytho
 - **LinkedIn**: [@Emanuel Włoch](https://www.linkedin.com/in/emanuelwloch)
 - **E-mail**: emanuel.wloch@gmail.com
 
+---
+
 ## ⚡ Ciekawostka
-Jestem wielkim fanem **BMW E92** i uwielbiam łączyć technologię z codziennym życiem! Poza tym lubię eksperymentować z backendem, optymalizować kod i automatyzować powtarzalne procesy. Często wciągam się w nowe technologie i testuję różne frameworki backendowe dla zabawy!
+Fan **BMW E92** 🚗, automatyzacji i optymalizacji.  
+Łączę pasję do kodu z nowoczesnym designem i AI.  
+Testuję nowe frameworki i technologie dla zabawy!
 
 ---
-Zapraszam do współpracy i wspólnego tworzenia niesamowitych projektów! 🚀
 
+## 📊 Statystyki GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xitali&show_icons=true&theme=tokyonight" alt="xitali's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xitali&theme=tokyonight" alt="xitali's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitali&layout=compact&theme=tokyonight" alt="xitali's Top Langs" />
+</p>
+
+---
+
+Zapraszam do współpracy i wspólnego tworzenia innowacyjnych projektów! 🚀
+
+---
 
 # Hi! I'm Emanuel Włoch (aka @xitali) 👋
 
 ## 🚀 About Me
-I am a technology enthusiast with a passion for creating modern websites and applications. I specialize in **HTML**, **CSS**, **JavaScript**, and **Python**. My portfolio showcases projects such as responsive websites and backend applications. You can find more details on my website: [xitali.github.io/moje-portfolio](https://xitali.github.io/moje-portfolio).
+I'm a passionate web developer focused on modern, fast and beautiful web apps.  
+I specialize in:
+- **Next.js** & **React** (SSR, SPA, API)
+- **TypeScript** (type safety)
+- **Tailwind CSS** (modern UI)
+- **Prisma ORM** + **MySQL**
+- **AI automations** (OpenAI, API integrations)
+- **Vercel** (professional hosting & analytics)
 
-## 🔥 Current Projects
-- 🛠 **AI-driven automation** – I am working on an AI-powered tool for handling responses on WhatsApp and emails.
-- 🎮 **Universal Gaming Platform** – I am developing an application that integrates platforms like Steam, Epic Games, Battle.net, etc., allowing quick game launches without opening each platform separately.
+Portfolio: [emanuelw.pl](https://emanuelw.pl)  
+See my projects: [xitali.github.io/moje-portfolio](https://xitali.github.io/moje-portfolio)
+
+---
+
+## 🛠 Current Tech Stack
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38bdf8?logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2d3748?logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+
+---
+
+## 🔥 Projects
+- 🤖 **AI-driven automation** – tools for automating responses (WhatsApp, e-mail, OpenAI)
+- 🎮 **Universal Gaming Platform** – integration of Steam, Epic Games, Battle.net, etc.
+- 💼 **Modern portfolio** – SSR, dynamic API, Vercel analytics
+
+---
 
 ## 💡 Interests
-- 🖥 **Backend Development (Python - Flask, Django)**
-- 🎨 **Minimalist UI/UX Design**
-- 🚗 **Automotive Enthusiast**
-- 🎮 **Gaming**
+- Backend (Node.js, Python, Flask)
+- Minimalist UI/UX design
+- Automation, API integrations
+- Automotive, gaming
+
+---
 
 ## 🎯 Looking for a Job!
-I am currently seeking my first job as a **Junior Backend Developer (Python)**. I am eager to take on challenges related to **Flask, Django**, API integrations, and process automation. I am open to any job opportunity in the **IT field** because it fascinates me, and I want to grow in this industry. If you are looking for a motivated and eager-to-learn developer – let me know! 💼
+I'm open to offers as a **Fullstack / Backend Developer (Next.js, TypeScript, Python)**.  
+Looking for a team that values quality, growth, and modern tech.  
+If you need a motivated developer – contact me! 💼
+
+---
 
 ## 📫 Contact
 - **GitHub**: [@xitali](https://github.com/xitali)
@@ -64,8 +141,23 @@ I am currently seeking my first job as a **Junior Backend Developer (Python)**. 
 - **LinkedIn**: [@Emanuel Włoch](https://www.linkedin.com/in/emanuelwloch)
 - **E-mail**: emanuel.wloch@gmail.com
 
+---
+
 ## ⚡ Fun Fact
-I am a huge fan of **BMW E92** and love integrating technology into daily life! Besides that, I enjoy experimenting with backend development, optimizing code, and automating repetitive processes. I often get caught up in new technologies and enjoy testing different backend frameworks just for fun!
+Big fan of **BMW E92** 🚗, automation and optimization.  
+I combine code passion with modern design and AI.  
+I love testing new frameworks and technologies for fun!
 
 ---
-Looking forward to collaborating and building amazing projects together! 🚀
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xitali&show_icons=true&theme=tokyonight" alt="xitali's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xitali&theme=tokyonight" alt="xitali's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitali&layout=compact&theme=tokyonight" alt="xitali's Top Langs" />
+</p>
+
+---
+
+Let's collaborate and build something amazing! 🚀
