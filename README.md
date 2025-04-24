@@ -74,7 +74,7 @@ Testuję nowe frameworki i technologie dla zabawy!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xitali&show_icons=true&theme=tokyonight" alt="xitali's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xitali&theme=tokyonight" alt="xitali's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=xitali&theme=tokyonight" alt="xitali's GitHub streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitali&layout=compact&theme=tokyonight" alt="xitali's Top Langs" />
 </p>
 
@@ -154,7 +154,7 @@ I love testing new frameworks and technologies for fun!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xitali&show_icons=true&theme=tokyonight" alt="xitali's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xitali&theme=tokyonight" alt="xitali's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=xitali&theme=tokyonight" alt="xitali's GitHub streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitali&layout=compact&theme=tokyonight" alt="xitali's Top Langs" />
 </p>
 
