@@ -17,7 +17,6 @@ Specjalizuję się w:
 - **Vercel** (profesjonalny hosting i analityka)
 
 Moje portfolio: [emanuelw.pl](https://emanuelw.pl)  
-Zobacz projekty: [xitali.github.io/moje-portfolio](https://xitali.github.io/moje-portfolio)
 
 ---
 
@@ -97,7 +96,6 @@ I specialize in:
 - **Vercel** (professional hosting & analytics)
 
 Portfolio: [emanuelw.pl](https://emanuelw.pl)  
-See my projects: [xitali.github.io/moje-portfolio](https://xitali.github.io/moje-portfolio)
 
 ---
 
