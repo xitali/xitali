@@ -1,161 +1,81 @@
-# Emanuel Włoch (aka @xitali) 👋
+<div align="center">
 
-![Vercel Deploy](https://vercel.com/button)
-![GitHub stars](https://img.shields.io/github/stars/xitali/emanuelw?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=xitali&color=blue)
+# ⚡ Emanuel Włoch 
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Edge+Computing+Architect;Next.js+15+%7C+React+19+%7C+TypeScript;Building+Modern+Web+Experiences)](https://git.io/typing-svg)
 
-## 🚀 O mnie
-Jestem pasjonatem nowoczesnych technologii webowych. Tworzę szybkie, responsywne i piękne aplikacje oraz strony internetowe, wykorzystując najnowsze narzędzia i trendy.  
-Specjalizuję się w:
-- **Next.js** & **React** (SSR, SPA, API)
-- **TypeScript** (typowanie, bezpieczeństwo)
-- **Tailwind CSS** (nowoczesny design)
-- **Prisma ORM** + **MySQL**
-- **Automatyzacje AI** (OpenAI, integracje API)
-- **Vercel** (profesjonalny hosting i analityka)
+**[ Portfolio & Wycena ](https://emanuelw.pl) • [ X (Twitter) ](https://x.com/xitali_) • [ LinkedIn ](https://www.linkedin.com/in/emanuelwloch)**
 
-Moje portfolio: [emanuelw.pl](https://emanuelw.pl)  
+<img src="https://komarev.com/ghpvc/?username=xitali&color=0ea5e9&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<br/>
+
+*Projektuję błyskawiczne, skalowalne i przepiękne aplikacje webowe oraz mobilne. Skupiam się na architekturze Edge, nowoczesnym UI i najwyższej wydajności.*
+
+</div>
 
 ---
 
-## 🛠 Aktualne technologie
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38bdf8?logo=tailwindcss&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2d3748?logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758f?logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+### 🚀 Tech Arsenal
+
+<div align="center">
+  <br />
+  <!-- Niestandardowe, piękne ikony z skillicons.dev -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,bun,postgres,sqlite,supabase,graphql,flutter,tauri,git,docker,vercel&theme=dark&perline=8" />
+  </a>
+  <br />
+  <br />
+</div>
+
+**✨ Specjalizacje:**
+* **Frontend:** Next.js 15, React 19, TypeScript, Tailwind CSS v4, shadcn/ui
+* **Backend:** Node.js, Hono (Edge Computing), tRPC, Architektura Event-Driven
+* **Bazy Danych:** Turso (Edge SQLite), Supabase, Drizzle ORM, Vector Databases (RAG)
+* **Mobilne & Desktop:** React Native (Expo), Flutter, Tauri (Rust)
 
 ---
 
-## 🔥 Projekty
-- 🤖 **AI-driven automation** – narzędzia do automatyzacji odpowiedzi (WhatsApp, e-mail, OpenAI)
-- 🎮 **Uniwersalna platforma gamingowa** – integracja Steam, Epic Games, Battle.net i innych
-- 💼 **Nowoczesne portfolio** – SSR, dynamiczne API, analityka Vercel
+### 🔥 Główne Kompetencje
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Nowoczesne Platformy</h3>
+      Tworzenie wydajnych, w pełni funkcjonalnych aplikacji SaaS oraz portali webowych od zera, z wykorzystaniem najnowszej architektury Full-Stack.
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Architektura Edge & API</h3>
+      Projektowanie ultra-szybkich endpointów i systemów integracyjnych działających blisko użytkownika, automatyzujących skomplikowane procesy biznesowe.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Hybrydowe Aplikacje Mobilne</h3>
+      Budowanie płynnie działających aplikacji na iOS i Androida z wykorzystaniem jednej bazy kodu.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Modernizacja & Optymalizacja</h3>
+      Audyty wydajnościowe (Core Web Vitals), eliminacja długu technologicznego, zwiększanie bezpieczeństwa oraz modernizacja UI.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💡 Zainteresowania
-- Backend (Node.js, Python, Flask)
-- Minimalistyczny design UI/UX
-- Automatyzacja, integracje API
-- Motoryzacja, gry komputerowe
+### 📈 GitHub Stats
 
----
+<div align="center">
+  <a href="https://github.com/xitali">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xitali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=0EA5E9&title_color=0EA5E9&text_color=79C0FF" />
+  </a>
+  <a href="https://github.com/xitali">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xitali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=79C0FF" />
+  </a>
+</div>
 
-## 🎯 Szukam pracy!
-Jestem otwarty na propozycje jako **Fullstack / Backend Developer (Next.js, TypeScript, Python)**.  
-Szukam zespołu, gdzie liczy się jakość, rozwój i nowoczesne technologie.  
-Jeśli szukasz ambitnego programisty – napisz do mnie! 💼
+<br/>
 
----
-
-## 📫 Kontakt
-- **GitHub**: [@xitali](https://github.com/xitali)
-- **X**: [@xitali_](https://x.com/xitali_)
-- **LinkedIn**: [@Emanuel Włoch](https://www.linkedin.com/in/emanuelwloch)
-- **E-mail**: emanuel.wloch@gmail.com
-
----
-
-## ⚡ Ciekawostka
-Fan **BMW E92** 🚗, automatyzacji i optymalizacji.  
-Łączę pasję do kodu z nowoczesnym designem i AI.  
-Testuję nowe frameworki i technologie dla zabawy!
-
----
-
-## 📊 Statystyki GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xitali&show_icons=true&theme=tokyonight" alt="xitali's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=xitali&theme=tokyonight" alt="xitali's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitali&layout=compact&theme=tokyonight" alt="xitali's Top Langs" />
-</p>
-
----
-
-Zapraszam do współpracy i wspólnego tworzenia innowacyjnych projektów! 🚀
-
----
-
-# Hi! I'm Emanuel Włoch (aka @xitali) 👋
-
-## 🚀 About Me
-I'm a passionate web developer focused on modern, fast and beautiful web apps.  
-I specialize in:
-- **Next.js** & **React** (SSR, SPA, API)
-- **TypeScript** (type safety)
-- **Tailwind CSS** (modern UI)
-- **Prisma ORM** + **MySQL**
-- **AI automations** (OpenAI, API integrations)
-- **Vercel** (professional hosting & analytics)
-
-Portfolio: [emanuelw.pl](https://emanuelw.pl)  
-
----
-
-## 🛠 Current Tech Stack
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38bdf8?logo=tailwindcss&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2d3748?logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758f?logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-
----
-
-## 🔥 Projects
-- 🤖 **AI-driven automation** – tools for automating responses (WhatsApp, e-mail, OpenAI)
-- 🎮 **Universal Gaming Platform** – integration of Steam, Epic Games, Battle.net, etc.
-- 💼 **Modern portfolio** – SSR, dynamic API, Vercel analytics
-
----
-
-## 💡 Interests
-- Backend (Node.js, Python, Flask)
-- Minimalist UI/UX design
-- Automation, API integrations
-- Automotive, gaming
-
----
-
-## 🎯 Looking for a Job!
-I'm open to offers as a **Fullstack / Backend Developer (Next.js, TypeScript, Python)**.  
-Looking for a team that values quality, growth, and modern tech.  
-If you need a motivated developer – contact me! 💼
-
----
-
-## 📫 Contact
-- **GitHub**: [@xitali](https://github.com/xitali)
-- **X**: [@xitali_](https://x.com/xitali_)
-- **LinkedIn**: [@Emanuel Włoch](https://www.linkedin.com/in/emanuelwloch)
-- **E-mail**: emanuel.wloch@gmail.com
-
----
-
-## ⚡ Fun Fact
-Big fan of **BMW E92** 🚗, automation and optimization.  
-I combine code passion with modern design and AI.  
-I love testing new frameworks and technologies for fun!
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xitali&show_icons=true&theme=tokyonight" alt="xitali's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=xitali&theme=tokyonight" alt="xitali's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitali&layout=compact&theme=tokyonight" alt="xitali's Top Langs" />
-</p>
-
----
-
-Let's collaborate and build something amazing! 🚀
+<div align="center">
+  <i>Prywatnie fan motoryzacji (BMW E92). Pasjonat RAG, Edge Computing i pisania bezbłędnego kodu.</i>
+</div>
