@@ -1,13 +1,16 @@
 <div align="center">
 
-<!-- Generowany cyfrowo nagłówek SVG z falą i neonowym kolorem #0ea5e9 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=060913&height=220&section=header&text=Emanuel%20W%C5%82och&fontSize=42&fontColor=0ea5e9&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%26%20Edge%20Architect&descSize=16&descAlign=50&descAlignY=60" width="100%" />
-
 <br/>
 
-<!-- Animacja tekstu maszynowego -->
+<!-- Czysty, nowoczesny nagłówek bez niestabilnych zewnętrznych generatorów -->
+<h1 align="center">⚡ Emanuel Włoch</h1>
+<p align="center">
+  <b>Full-Stack Software Engineer & Edge Architect</b>
+</p>
+
+<!-- Animacja tekstu maszynowego (niezawodny serwer) -->
 <a href="https://emanuelwloch.pl" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Edge+Computing+%7C+Next.js+15+%7C+React+19;Building+High-Scale+Web+%26+Mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Edge+Computing+%7C+Next.js+15+%7C+React+19;Building+High-Scale+Web+%26+Mobile+Apps" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -46,10 +49,7 @@ const developer: SoftwareEngineer = {
 };
 ```
 
-<br/>
-
-<!-- Neon Linia Dzieląca -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ### `// 01. STOS TECHNOLOGICZNY & EKOSYSTEM`
 
@@ -106,10 +106,7 @@ const developer: SoftwareEngineer = {
   </a>
 </p>
 
-<br/>
-
-<!-- Neon Linia Dzieląca -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ### `// 02. KLUCZOWE PROJEKTY ARCHITEKTONICZNE`
 
@@ -163,10 +160,7 @@ const developer: SoftwareEngineer = {
   </tr>
 </table>
 
-<br/>
-
-<!-- Neon Linia Dzieląca -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ### `// 03. METRYKI DEWELOPERSKIE & STREAK`
 
